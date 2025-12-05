@@ -1,6 +1,16 @@
 # Meowww
 
 
+  # Single Page React App
+
+  This is a code bundle for Single Page React App. The original project is available at https://www.figma.com/design/E5CQS1zbDZioAZK7sCRtAr/Single-Page-React-App.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
 Implemented APIs:
 GET /api/tags: Fetches all available tags.
 GET /api/count: Fetches the total number of cats in the database.
